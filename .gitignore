@@ -9,11 +9,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Modelos treinados (artefatos grandes)
-lora_adapter/
-*.safetensors
-*.bin
-
 # Bases vetoriais geradas
 data/vectorstore/
 
